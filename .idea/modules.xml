@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-openapi-service/common-openapi-service.iml" filepath="$PROJECT_DIR$/common-openapi-service/common-openapi-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/open-common-service.iml" filepath="$PROJECT_DIR$/.idea/open-common-service.iml" />
     </modules>
   </component>
